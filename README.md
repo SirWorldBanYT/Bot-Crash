@@ -14,4 +14,8 @@ python3 -m pip install -U discord.py
 # Windows
 py -3 -m pip install -U discord.py
 
+# Imagenes
+
 ![image](https://user-images.githubusercontent.com/101956712/159146632-40074bde-123c-46ae-b342-fda829db248a.png)
+
+![image](https://user-images.githubusercontent.com/101956712/159146651-8555f461-adf7-493a-84d5-de700d2c7eb6.png)
