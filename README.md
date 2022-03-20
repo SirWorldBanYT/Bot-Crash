@@ -13,3 +13,5 @@ python3 -m pip install -U discord.py
 
 # Windows
 py -3 -m pip install -U discord.py
+
+![image](https://user-images.githubusercontent.com/101956712/159146632-40074bde-123c-46ae-b342-fda829db248a.png)
