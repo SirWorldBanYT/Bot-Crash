@@ -16,7 +16,7 @@ https://discord.com/developers/applications
 ![image](https://user-images.githubusercontent.com/101956712/159146821-05f9b013-593e-4072-a793-cb002e46ccb9.png)
 # Copia el token y dirijete a bot.py Linea 12
 ![image](https://user-images.githubusercontent.com/101956712/159146850-d00b72a4-f3ec-4d05-8a56-4b4a06d72dff.png)
-# Una ves ya echo todo los paso solo falta añadir el bot a tu servidor y lo aras de la siguiente forma Dirijete a oauth2
+# Una vez ya hecho todo los paso solo falta añadir el bot a tu servidor y lo aras de la siguiente forma Dirijete a oauth2
 ![image](https://user-images.githubusercontent.com/101956712/159146875-9312334e-5dda-4179-80c7-e5b15f3ccada.png)
 # Luego a url-generator
 ![image](https://user-images.githubusercontent.com/101956712/159146880-376e0740-4e00-4bd3-8582-0f4701543cb5.png)
